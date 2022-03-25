@@ -1,7 +1,7 @@
 
 ## JS Muscle Memory
 This problem set will test your understanding of how JavaScript is evaluated.
-Check your answers by running the lines code in your browser console. 
+Check your answers by running the lines code in your browser console or in node (where applicable). 
 
 Suggestions: 
 - Type out these expressions and avoid copy & paste. 
