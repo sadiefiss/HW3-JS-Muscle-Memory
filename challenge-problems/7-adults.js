@@ -15,6 +15,6 @@ const ppl = [
 adults(ppl); // => [ 'Khalid Robinson', 'Post Malone' ]
 ***********************************************************************/
 
-function adults(people) {
+module.exports = function adults(people) {
   
 }

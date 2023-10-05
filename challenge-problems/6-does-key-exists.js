@@ -10,6 +10,6 @@ doesKeyExist(obj1, 'company'); // => true
 doesKeyExist(obj1, 'name'); // => false
 ***********************************************************************/
 
-function doesKeyExist(obj, key) {
+module.exports = function doesKeyExist(obj, key) {
 
 }

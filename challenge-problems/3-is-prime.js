@@ -12,6 +12,6 @@ isPrime(2017); // => true
 ***************************************************************************/
 
 function isPrime(number) {
-
 }
 
+module.exports = isPrime;

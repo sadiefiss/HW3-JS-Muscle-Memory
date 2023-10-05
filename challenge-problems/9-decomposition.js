@@ -48,6 +48,6 @@ sumOfNPrimes(1); // => 2
 sumOfNPrimes(4); // => 17
 ***********************************************************************/
 
-function sumOfNPrimes(n) {
+module.exports =function sumOfNPrimes(n) {
 
-}
+} 

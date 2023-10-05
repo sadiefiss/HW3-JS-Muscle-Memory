@@ -32,6 +32,6 @@ countScores(peeps); //=> { Pete: 4, Mike: 4, Dexter: 6 }
 ***********************************************************************/
 
 
-function countScores(people) {
+module.exports = function countScores(people) {
 
 }

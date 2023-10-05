@@ -11,6 +11,6 @@ const cat2 = catBuilder('Whiskers', 'rainbow', ['poptarts']);
 cat2; // => { name: 'Whiskers', color: 'rainbow', toys: [ 'poptarts' ] }
 ***********************************************************************/
 
-function catBuilder(name, color, toys) {
+module.exports = function catBuilder(name, color, toys) {
 
 }
