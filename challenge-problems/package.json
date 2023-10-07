@@ -4,7 +4,6 @@
   "description": "SEIR Unit 1 HW: JS Review - Muscle Memory",
   "main": "index.js",
   "directories": {
-    "lib": "lib",
     "test": "test"
   },
   "scripts": {

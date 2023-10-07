@@ -8,6 +8,9 @@ tripler([1,2,3]); // => [ 3, 6, 9 ]
 tripler([4, 1, 7]); // => [ 12, 3, 21 ]
 *******************************************************************************/
 
-module.exports = function tripler(array) {
-
+function tripler(array) {
+    // your code here
 }
+
+
+module.exports = tripler

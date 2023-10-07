@@ -31,7 +31,8 @@ const peeps = [
 countScores(peeps); //=> { Pete: 4, Mike: 4, Dexter: 6 }
 ***********************************************************************/
 
-
-module.exports = function countScores(people) {
-
+function countScores(people) {
+  // your code here
 }
+
+module.exports = countScores;

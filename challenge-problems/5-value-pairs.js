@@ -12,6 +12,8 @@ valuePair(object1, object2, 'location'); // => [ 'Remote', 'San Francisco' ]
 valuePair(object1, object2, 'name'); // => [ 'One', 'Two' ]
 ***********************************************************************/
 
-module.exports =  function valuePair(obj1, obj2, key) {
-
+function valuePair(obj1, obj2, key) {
+  // your code here
 }
+
+module.exports = valuePair;

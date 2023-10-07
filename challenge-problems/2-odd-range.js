@@ -8,6 +8,8 @@ oddRange(13); // => [ 1, 3, 5, 7, 9, 11, 13 ]
 oddRange(6); // => [ 1, 3, 5 ]
 ******************************************************************************/
 
-module.exports = function oddRange(end) {
-
+function oddRange(end) {
+    // your code here
 }
+
+module.exports = oddRange

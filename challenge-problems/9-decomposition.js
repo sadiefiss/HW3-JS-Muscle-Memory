@@ -5,7 +5,6 @@ before moving on to the next problem. Each function will require the
 previous to solve.
 ***********************************************************************/
 
-
 /***********************************************************************
 Write a function `isPrime(number)` that returns a boolean indicating if
 `number` is prime or not. Assume `number` is a positive integer.
@@ -17,11 +16,10 @@ isPrime(1693); // => true
 isPrime(15); // => false
 isPrime(303212); // => false
 ***********************************************************************/
-
 function isPrime(number) {
-    
+  // your code here
 }
-  
+
 /***********************************************************************
 Using the `isPrime` function you made, write a function `firstNPrimes(n)`
 that returns an array of the first `n` prime numbers.
@@ -34,7 +32,7 @@ firstNPrimes(4); // => [2, 3, 5, 7]
 ***********************************************************************/
 
 function firstNPrimes(n) {
-
+  // your code here
 }
 
 /***********************************************************************
@@ -47,7 +45,8 @@ sumOfNPrimes(0); // => 0
 sumOfNPrimes(1); // => 2
 sumOfNPrimes(4); // => 17
 ***********************************************************************/
+function sumOfNPrimes(n) {
+  // your code here
+}
 
-module.exports =function sumOfNPrimes(n) {
-
-} 
+module.exports = { firstNPrimes, isPrime, sumOfNPrimes };

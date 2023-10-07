@@ -12,9 +12,11 @@ const ppl = [
   {name: 'Willow Smith', age: 17}
 ];
 
-adults(ppl); // => [ 'Khalid Robinson', 'Post Malone' ]
+adults(ppl); // => [ 'Khalid Robinson', 'Ariel Winter', 'Post Malone' ]
 ***********************************************************************/
 
-module.exports = function adults(people) {
-  
+function adults(people) {
+  // your code here
 }
+
+module.exports = adults
