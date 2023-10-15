@@ -259,4 +259,12 @@ function evenCaps(sentence) {
 
 - Goal: Practice working through a series of progressively more challenging JS coding problems 
 - Task: Pseudo-code and find a working solution. 
+
 - Note: These problems may be review, but practice writing these solutions with your own skills rather than searching for an answer online, or looking back at an earlier code sample.  
+
+- Note: If you would like to practice your automated tests, rather than manual tests in the `challenge-problems` folder - run the following commands: 
+  - change in the `challenge-problems` subdir - `cd challenge-problems`
+  - `npm i` and verify a node modules folder appear in the current directory
+  - `npm run test` to initiate a mocha/chai test suite
+
+- Note: With the automated tests you should not modify the export statements found in each .js module. 

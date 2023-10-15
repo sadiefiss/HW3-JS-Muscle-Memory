@@ -9,7 +9,8 @@ const obj1 = {company: 'General Assembly', course: 'Software Engineering Immersi
 doesKeyExist(obj1, 'company'); // => true
 doesKeyExist(obj1, 'name'); // => false
 ***********************************************************************/
-
 function doesKeyExist(obj, key) {
-
+  // your code here
 }
+
+module.exports = doesKeyExist;

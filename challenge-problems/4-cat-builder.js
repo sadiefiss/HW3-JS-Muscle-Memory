@@ -12,5 +12,8 @@ cat2; // => { name: 'Whiskers', color: 'rainbow', toys: [ 'poptarts' ] }
 ***********************************************************************/
 
 function catBuilder(name, color, toys) {
-
+    // your code here
 }
+
+
+module.exports = catBuilder
