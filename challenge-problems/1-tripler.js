@@ -7,10 +7,11 @@ Examples:
 tripler([1,2,3]); // => [ 3, 6, 9 ]
 tripler([4, 1, 7]); // => [ 12, 3, 21 ]
 *******************************************************************************/
-
+//MY C0DE
 function tripler(array) {
-    // your code here
+ return array.map(elm => elm * 3);
 }
-
+console.log(tripler([5,2,3]));
+console.log(tripler(4,3,5));
 
 module.exports = tripler
